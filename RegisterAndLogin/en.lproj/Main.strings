@@ -1,0 +1,180 @@
+
+/* Class = "UIBarButtonItem"; title = "Sign out"; ObjectID = "0Fc-6C-CPL"; */
+"0Fc-6C-CPL.title" = "Sign out";
+
+/* Class = "UILabel"; text = "Group:"; ObjectID = "0rd-BR-ZES"; */
+"0rd-BR-ZES.text" = "Group:";
+
+/* Class = "UILabel"; text = "Season:"; ObjectID = "1S6-2t-FNw"; */
+"1S6-2t-FNw.text" = "Season:";
+
+/* Class = "UILabel"; text = "© all rights reserved"; ObjectID = "1b7-RB-Lk5"; */
+"1b7-RB-Lk5.text" = "© all rights reserved";
+
+/* Class = "UILabel"; text = "Email Address:"; ObjectID = "1pR-2x-ivW"; */
+"1pR-2x-ivW.text" = "Email Address:";
+
+/* Class = "UILabel"; text = "GA"; ObjectID = "2id-ke-T2E"; */
+"2id-ke-T2E.text" = "GA";
+
+/* Class = "UIButton"; normalTitle = "Delete Account"; ObjectID = "3Jb-l6-EKj"; */
+"3Jb-l6-EKj.normalTitle" = "Delete Account";
+
+/* Class = "UILabel"; text = "Pts"; ObjectID = "3v6-1Z-aMx"; */
+"3v6-1Z-aMx.text" = "Pts";
+
+/* Class = "UIBarButtonItem"; title = "Profile"; ObjectID = "4dd-vD-tIv"; */
+"4dd-vD-tIv.title" = "Profile";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "6fV-os-3Th"; */
+"6fV-os-3Th.text" = "W";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "8kh-Sp-1mq"; */
+"8kh-Sp-1mq.text" = "User Name:";
+
+/* Class = "UILabel"; text = "GA"; ObjectID = "8y6-4B-Rnn"; */
+"8y6-4B-Rnn.text" = "GA";
+
+/* Class = "UILabel"; text = "W"; ObjectID = "BRN-53-ihq"; */
+"BRN-53-ihq.text" = "W";
+
+/* Class = "UILabel"; text = "Pts"; ObjectID = "Clk-d1-74F"; */
+"Clk-d1-74F.text" = "Pts";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "DcX-WJ-UTs"; */
+"DcX-WJ-UTs.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "Dkc-Os-Fmf"; */
+"Dkc-Os-Fmf.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "club"; ObjectID = "E2l-ju-JSQ"; */
+"E2l-ju-JSQ.text" = "club";
+
+/* Class = "UILabel"; text = "League:"; ObjectID = "HQH-CB-AQq"; */
+"HQH-CB-AQq.text" = "League:";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "HdA-hF-0bP"; */
+"HdA-hF-0bP.normalTitle" = "Sign Out";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IGm-ur-42c"; */
+"IGm-ur-42c.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Get Start"; ObjectID = "JNx-FU-Mk6"; */
+"JNx-FU-Mk6.normalTitle" = "Get Start";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "Jf5-69-Ks9"; */
+"Jf5-69-Ks9.text" = "L";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "M7M-Y0-KpQ"; */
+"M7M-Y0-KpQ.text" = "D";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "Nfp-P0-waP"; */
+"Nfp-P0-waP.text" = "Log In";
+
+/* Class = "UILabel"; text = "CompName"; ObjectID = "NsY-4p-yO3"; */
+"NsY-4p-yO3.text" = "CompName";
+
+/* Class = "UITextField"; placeholder = "Confirm Password:"; ObjectID = "ORd-2E-1BT"; */
+"ORd-2E-1BT.placeholder" = "Confirm Password:";
+
+/* Class = "UITextField"; placeholder = "Password:"; ObjectID = "ObM-Hj-H9z"; */
+"ObM-Hj-H9z.placeholder" = "Password:";
+
+/* Class = "UILabel"; text = "Competition Name"; ObjectID = "QjY-qb-Phh"; */
+"QjY-qb-Phh.text" = "Competition Name";
+
+/* Class = "UINavigationItem"; title = "Competition Standing"; ObjectID = "TPl-ED-dXo"; */
+"TPl-ED-dXo.title" = "Competition Standing";
+
+/* Class = "UITextField"; placeholder = "User Name:"; ObjectID = "ToW-6A-CUV"; */
+"ToW-6A-CUV.placeholder" = "User Name:";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "VGj-67-55F"; */
+"VGj-67-55F.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Password:"; ObjectID = "Vhg-H8-eAl"; */
+"Vhg-H8-eAl.placeholder" = "Password:";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "VpF-Oo-MPe"; */
+"VpF-Oo-MPe.title" = "Home";
+
+/* Class = "UILabel"; text = "GS"; ObjectID = "Yk6-fM-q7M"; */
+"Yk6-fM-q7M.text" = "GS";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Yw2-8a-4Mk"; */
+"Yw2-8a-4Mk.text" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "ZUc-Xv-h9U"; */
+"ZUc-Xv-h9U.normalTitle" = "Log In";
+
+/* Class = "UINavigationItem"; title = "Competition Standing"; ObjectID = "bJN-vG-kAe"; */
+"bJN-vG-kAe.title" = "Competition Standing";
+
+/* Class = "UILabel"; text = "MP"; ObjectID = "cGL-Bh-bEX"; */
+"cGL-Bh-bEX.text" = "MP";
+
+/* Class = "UIBarButtonItem"; title = "Profile"; ObjectID = "cLt-Ih-Vbb"; */
+"cLt-Ih-Vbb.title" = "Profile";
+
+/* Class = "UILabel"; text = "last 5"; ObjectID = "doJ-Xh-WkI"; */
+"doJ-Xh-WkI.text" = "last 5";
+
+/* Class = "UIButton"; normalTitle = "dismiss"; ObjectID = "f5g-MN-zNf"; */
+"f5g-MN-zNf.normalTitle" = "dismiss";
+
+/* Class = "UITextField"; placeholder = "User Name:"; ObjectID = "gHU-fH-3dJ"; */
+"gHU-fH-3dJ.placeholder" = "User Name:";
+
+/* Class = "UILabel"; text = "teamName"; ObjectID = "gua-1p-ACP"; */
+"gua-1p-ACP.text" = "teamName";
+
+/* Class = "UIButton"; normalTitle = "dismiss"; ObjectID = "hVV-CM-lFN"; */
+"hVV-CM-lFN.normalTitle" = "dismiss";
+
+/* Class = "UILabel"; text = "MP"; ObjectID = "hwM-Xo-onj"; */
+"hwM-Xo-onj.text" = "MP";
+
+/* Class = "UIButton"; normalTitle = "❌"; ObjectID = "kjM-ct-9pn"; */
+"kjM-ct-9pn.normalTitle" = "❌";
+
+/* Class = "UILabel"; text = "D"; ObjectID = "kwg-sz-r9A"; */
+"kwg-sz-r9A.text" = "D";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "lOY-of-AZK"; */
+"lOY-of-AZK.text" = "Profile";
+
+/* Class = "UILabel"; text = "CompRegion"; ObjectID = "nYP-bg-gzC"; */
+"nYP-bg-gzC.text" = "CompRegion";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "oEd-05-nKB"; */
+"oEd-05-nKB.text" = "L";
+
+/* Class = "UILabel"; text = "Po#"; ObjectID = "oTE-Mt-ekQ"; */
+"oTE-Mt-ekQ.text" = "Po#";
+
+/* Class = "UILabel"; text = "GF"; ObjectID = "qNh-BU-ueg"; */
+"qNh-BU-ueg.text" = "GF";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "qjM-ZH-oTL"; */
+"qjM-ZH-oTL.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "GD"; ObjectID = "qkf-cw-lPx"; */
+"qkf-cw-lPx.text" = "GD";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rGH-tP-fHA"; */
+"rGH-tP-fHA.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email Address:"; ObjectID = "s1l-pS-nLy"; */
+"s1l-pS-nLy.placeholder" = "Email Address:";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "tcH-We-Xnk"; */
+"tcH-We-Xnk.text" = "or";
+
+/* Class = "UILabel"; text = "GD"; ObjectID = "uRF-pN-RPy"; */
+"uRF-pN-RPy.text" = "GD";
+
+/* Class = "UILabel"; text = "last 5"; ObjectID = "xCI-Eh-5iG"; */
+"xCI-Eh-5iG.text" = "last 5";
+
+/* Class = "UILabel"; text = "year"; ObjectID = "z4q-90-WNU"; */
+"z4q-90-WNU.text" = "year";

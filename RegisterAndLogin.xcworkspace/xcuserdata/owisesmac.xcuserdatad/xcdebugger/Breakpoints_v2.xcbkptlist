@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegisterAndLogin/ViewControllers/LoginVC.swift"
+            timestampString = "583429760.0552289"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "LoginViewLogInButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.BackendlessUser&gt;) -&gt; () in RegisterAndLogin.LoginVC.LoginViewLogInButton(Any) -&gt; ()"
+                  moduleName = "RegisterAndLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owisesmac/Desktop/XCode&apos;s%20Projects/RegisterAndLogin/RegisterAndLogin/ViewControllers/LoginVC.swift"
+                  timestampString = "582718022.519089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "270">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.BackendlessUser&gt;) -&gt; () in RegisterAndLogin.LoginVC.LoginViewLogInButton(Any) -&gt; ()"
+                  moduleName = "RegisterAndLogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/owisesmac/Desktop/XCode&apos;s%20Projects/RegisterAndLogin/RegisterAndLogin/ViewControllers/LoginVC.swift"
+                  timestampString = "582718022.520666"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "642">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RegisterAndLogin/ViewControllers/mainNavigationVC.swift"
+            timestampString = "582823558.4482861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
